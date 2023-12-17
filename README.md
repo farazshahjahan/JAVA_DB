@@ -14,4 +14,4 @@
 ![Sales Invoice Data - POS](https://github.com/farazshahjahan/JAVA_DB/blob/main/JAVA%20DB/JAVA%20DB/screenshots/java-pos-sales-invoice-end.png)
 
 ### Sales Invoice End - POS
-![Sales Invoice End - POS]()
+![Sales Invoice End - POS](https://github.com/farazshahjahan/JAVA_DB/blob/main/JAVA%20DB/JAVA%20DB/screenshots/java-pos-sales-invoice.png)
