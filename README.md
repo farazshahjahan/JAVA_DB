@@ -5,7 +5,7 @@
 ## Screenshots
 
 ### Login - POS
-![login - POS](https://github.com/farazshahjahan/JAVA_DB/tree/main/JAVA%20DB/JAVA%20DB/screenshots)/java-pos-login.png?raw=true "login")
+![login - POS](https://github.com/farazshahjahan/JAVA_DB/blob/main/JAVA%20DB/JAVA%20DB/screenshots/java-pos-login.png)
 
 ### Sales Invoice - POS
 ![Sales Invoice - POS](https://raw.github.com/inforkgodara/java-point-of-sale/master/screenshots/java-pos-sales-invoice.png?raw=true "login")
